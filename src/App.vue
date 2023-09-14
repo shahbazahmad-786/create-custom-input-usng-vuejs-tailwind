@@ -10,7 +10,7 @@
         <CustomInput type="number" class="mb-3" v-model="model.price" label="Price" prepend="$" :required="true" />
         <CustomInput type="select" class="mb-3" v-model="model.gender" :selectOptions="genderOptions" />
         <CustomInput type="checkbox" class="mb-3" v-model="model.published" label="Published" />
-        <!-- CustomInput Fields -->
+        <!--/ CustomInput Fields -->
 
         <!-- Buttons -->
         <button type="submit"

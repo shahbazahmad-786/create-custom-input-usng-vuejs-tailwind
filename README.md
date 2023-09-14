@@ -8,7 +8,7 @@ Create or install the `vue-js` application and `tailwind-css` framework.
 
 Create a component in components dir like `src/components/CustomInput.vue`
 
-#### Vue Template
+#### Vue Template (src/components/CustomInput.vue)
 
 ```html
 <template>
@@ -89,7 +89,7 @@ Create a component in components dir like `src/components/CustomInput.vue`
 </template>
 ```
 
-#### Script Setup
+#### Script Setup (src/components/CustomInput.vue)
 
 ```js
 <script setup>
